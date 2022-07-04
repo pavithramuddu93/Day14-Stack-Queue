@@ -1,7 +1,8 @@
 package blz;
 
 public class Queue {
-LinkedList list = new LinkedList();
+
+	LinkedList list = new LinkedList();
 
 	public void enQueue(Object data) {
 		list.addLast(data);
