@@ -2,8 +2,7 @@ package blz;
 
 public class Stack {
 
-
-	LinkedList list = new LinkedList();
+LinkedList list = new LinkedList();
 
 	public void push(Object data) {
 		list.addFirst(data);
