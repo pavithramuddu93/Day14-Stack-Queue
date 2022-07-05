@@ -1,7 +1,6 @@
 package blz;
 
-public class stackmain {
-
+public class StackMain {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,7 @@
 package blz;
 
 public class LinkedList {
+
 	Node head;
 
 	public class Node {
